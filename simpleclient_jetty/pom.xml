@@ -40,12 +40,12 @@
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-server</artifactId>
-            <version>9.0.2.v20130417</version>
+            <version>${jetty.version}</version>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-servlet</artifactId>
-            <version>9.0.2.v20130417</version>
+            <version>${jetty.version}</version>
         </dependency>
         <!-- Test Dependencies Follow -->
         <dependency>
